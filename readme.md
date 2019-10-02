@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/w8rbt/goathgen.svg?branch=master)](https://travis-ci.org/w8rbt/goathgen)
+[![Build Status](https://travis-ci.org/62726164/goathgen.svg?branch=master)](https://travis-ci.org/62726164/goathgen)
 
 # goathgen
 
@@ -14,7 +14,7 @@ $ cat plaintext-secret.txt | goathgen
 ## Installation via Go
 
 ```bash
-$ go get github.com/w8rbt/goathgen
+$ go get github.com/62726164/goathgen
 ```
 
 ## To build and install the executable
@@ -49,6 +49,6 @@ $ go test
     * 30 second time step
 3. If you need other OATH functionality, edit the goathgen source code.
     * Read the C++ oathgen source code for full OATH functionality
-    * https://github.com/w8rbt/oathgen
+    * https://github.com/62726164/oathgen
 4. Run NTP when using goathgen.
 

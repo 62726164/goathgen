@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2017 Richard B Tilley <brad@w8rbt.org>
+ * Copyright (c) 2017 Richard B Tilley <btilley@gatech.edu>
  *
  * Permission to use, copy, modify, and distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
@@ -18,7 +18,7 @@ package goathgen_test
 
 import "fmt"
 import "testing"
-import "github.com/w8rbt/goathgen"
+import "github.com/62726164/goathgen"
 
 var b32Secret = "GEZDGNBVGY3TQOJQGEZDGNBVGY3TQOJQ"
 var bincode int
