@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/62726164/goathgen.svg?branch=master)](https://travis-ci.org/62726164/goathgen)
-
 # goathgen
 
 A simple TOTP library and command line executable written in Go.
